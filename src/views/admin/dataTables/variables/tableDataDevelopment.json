@@ -1,0 +1,56 @@
+[  
+  {    
+    "city": "New York",
+    "region": "Northeast",
+    "medianPrice": 850000,
+    "year": 2023   
+   },
+  
+  {    
+    "city": "Chicago",
+    "region": "Midwest",
+    "medianPrice": 400000,
+    "year": 2023   
+   },
+  
+  {    
+    "city": "Houston",
+    "region": "South",
+    "medianPrice": 300000,
+    "year": 2023   
+   },
+  
+  {    
+    "city": "Miami",
+    "region": "South",
+    "medianPrice": 600000,
+    "year": 2023   
+   },
+  
+  {    
+"    city": "SF",
+    "region": "West",
+    "medianPrice": 1200000,
+    "year": 2023   
+   },
+  {    
+    "city": "Boston",
+    "region": "Northeast",
+    "medianPrice": 900000,
+    "year": 2023   
+   },
+  
+  {    
+    "city": "Atlanta",
+    "region": "South",
+    "medianPrice": 350000,
+    "year": 2023   
+   },
+  
+  {    
+    "city": "Seattle",
+    "region": "West",
+    "medianPrice": 800000,
+    "year": 2023   
+   }
+]
